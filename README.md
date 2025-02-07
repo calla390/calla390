@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?ctype=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://calla-render.vercel.app/api?ctype=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?text=calla%World!)
