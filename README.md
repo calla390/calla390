@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?ctype=wave&color=auto&height=300&section=header&text=calla%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?ctype=wave&color=auto&height=300&section=header&text=calla%20&fontSize=90&animation=fadeIn" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-![header] <img src= https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn>
 
 <!--
 **calla390/calla390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
