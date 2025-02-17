@@ -24,4 +24,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calla&layout=compact&bg_color=60,f2c5c5,bdadad&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-Here are some ideas to get you started:
